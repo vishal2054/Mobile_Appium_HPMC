@@ -1,0 +1,9 @@
+appium desktop v. 1.1.1
+Selenium 2.45.0 -- E:\auto..\Selenium\Selenium-2.45.0\libs
+Java Client 3.3.0 - Appium_test1 > lib
+Selenium Standalone jar 0.9.0  -- E:\auto..\Selenium
+testng 6.8.5 --E:\auto..\Selenium\Selenium-2.45.0\libs
+
+Execution Environment - OSGi/Minimum-1.2 (jre1.8.0_131)
+
+C:\Users\Dell\AppData\Local\Programs\appium-desktop\Appium.exe
